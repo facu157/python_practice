@@ -2,4 +2,7 @@ algo = 'esto es una prueba'
 
 print(algo)
 
-algomas = ''
+algomas = 'dfdfdfd'
+
+print(algomas)
+
